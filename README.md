@@ -34,7 +34,7 @@
 
 ### 下载地址：
 
-点击右方 **Releases** ，下载并解压 **software_v1.0.zip** 。
+点击 **[Releases](https://github.com/aflzc2000/WGS-analyze/releases)** ，下载并解压 **software_v1.0.zip** 。
 
 Windows用户双击 **“启动程序.bat”** 。
 
