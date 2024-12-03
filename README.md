@@ -34,7 +34,7 @@
 
 ### 下载地址：
 
-点击右方Release，下载并解压software.zip。
+点击右方 **Releases** ，下载并解压 **software_v1.0.zip** 。
 
 Windows用户双击 **“启动程序.bat”** 。
 
