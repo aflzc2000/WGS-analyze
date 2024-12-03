@@ -6,13 +6,13 @@
 
 **Windows：**
 
-:green_circle: **WSL/WSL2：支持** **推荐的运行方式*
+:green_circle: **WSL/WSL2：支持。** **推荐的运行方式*
 
-:red_circle: **Powershell：部分支持** **不推荐，除非软件conda全部使用noarch包，否则不能运行*
+:red_circle: **Powershell：部分支持。** **不推荐，除非软件conda全部使用noarch包，否则不能运行*
 
 **Unix：**
 
-:green_circle: **macOS：支持**
+:green_circle: **macOS：支持。**
 
 :yellow_circle: **Linux：支持，但未经过测试。** **代码同macOS，理论可行*
 
